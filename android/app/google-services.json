@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99446441925",
+    "project_id": "kurunagala-cab",
+    "storage_bucket": "kurunagala-cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99446441925:android:592252a97216b2d7f06dac",
+        "android_client_info": {
+          "package_name": "com.example.kurunagala_cab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDISX-N5F38zZ1MwkaKipjnBX5Kg08DpXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
